@@ -1,5 +1,5 @@
 # 4Talent Test
-## Objectivo:
+## Objetivo:
 Crear una aplicación (Rails + React) que permita consumir la API de http://openweathermap.org/api. La aplicación debe cumplir los siguientes requisitos:
 - El proyecto debe estar en Rails con la gema de 'react-rails'
 - El proyecto debe estar con git en github.com en un repositorio publico
